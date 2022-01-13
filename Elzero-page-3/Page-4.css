@@ -873,7 +873,7 @@ cursor: pointer;
   align-items: center;
   padding-right: 15px;
 }
-@media (max-width) {
+@media (max-width:767px) {
   .services .container .box::after{
     height: 60px;
   }
