@@ -864,7 +864,7 @@ cursor: pointer;
   color: white;
   left: 0;
   bottom: -4px;
-  height: 47px;
+  padding:7px;
   width: 80px;
   font-size: 30px;
   font-weight: bold;
@@ -872,11 +872,6 @@ cursor: pointer;
   justify-content: center;
   align-items: center;
   padding-right: 15px;
-}
-@media (max-width:767px) {
-  .services .container .box::after{
-    height: 60px;
-  }
 }
 .services .container .box::before{
   content: "";
