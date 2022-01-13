@@ -875,7 +875,7 @@ cursor: pointer;
 }
 @media (max-width:767px) {
   .services .container .box::after{
-    height: 60px;
+    height: 70px;
   }
 }
 .services .container .box::before{
